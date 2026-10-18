@@ -1,0 +1,8 @@
+data/
+output/
+*.RData
+*.nii
+*.nii.gz
+.Rhistory
+.RData
+.Rproj.user/
